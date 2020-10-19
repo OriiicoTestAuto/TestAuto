@@ -29,7 +29,7 @@ After that, you need to push drivers file .exe on ressources/drivers
 6/ Run test with Class TestRunner in package "Modules"
 On file config.properties (test/java/ressources/environnement), you need to change the key browser by :
 - "Chrome" for Google Chrome 
-- "Firefox" for firefox 
+- "Firefox" for Firefox 
 
 ** thanks **
 
